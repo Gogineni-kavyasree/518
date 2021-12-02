@@ -1,5 +1,4 @@
 # Heading 1
-
 ## Heading 2
 
 **This is my github account**
@@ -14,3 +13,14 @@
 
 :smiling_face_with_three_hearts:
 :heart_eyes:
+
+* Fruits
+  * Apples
+  * Oranges
+  * Bananas
+ 
+ 1. Vegetables
+    1. Onions
+    2. Potatoes
+    3. Chilli
+  
