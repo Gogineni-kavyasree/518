@@ -23,4 +23,9 @@
     1. Onions
     2. Potatoes
     3. Chilli
+
+Sno|Name
+----|----
+1|Kavya
+2|Rishitha
   
